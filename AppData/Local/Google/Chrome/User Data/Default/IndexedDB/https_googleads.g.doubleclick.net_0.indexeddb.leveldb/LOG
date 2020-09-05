@@ -1,0 +1,5 @@
+2020/09/05-05:48:30.245 5bf8 Reusing MANIFEST C:\Users\tanuj.000\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-05:48:40.957 3dac Level-0 table #5: started
+2020/09/05-05:48:40.964 3dac Level-0 table #5: 385 bytes OK
+2020/09/05-05:48:40.969 3dac Delete type=0 #3
+2020/09/05-05:48:40.971 3dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

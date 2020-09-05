@@ -1,0 +1,8 @@
+2020/09/04-13:21:35.606 5500 Reusing MANIFEST C:\Users\tanuj.000\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/04-13:21:35.607 5500 Recovering log #10
+2020/09/04-13:21:35.607 5500 Reusing old log C:\Users\tanuj.000\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/000010.log 
+2020/09/04-13:21:45.730 3dac Level-0 table #15: started
+2020/09/04-13:21:45.730 3dac Level-0 table #15: 0 bytes OK
+2020/09/04-13:21:45.736 3dac Delete type=0 #10
+2020/09/04-13:21:45.737 3dac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/04-13:21:45.737 3dac Manual compaction at level-1 from (begin) .. (end); will stop at (end)
