@@ -1,0 +1,29 @@
+2020/09/05-04:54:59.035 6efc Reusing MANIFEST C:\Users\tanuj.000\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/05-04:54:59.036 6efc Recovering log #6990
+2020/09/05-04:54:59.036 6efc Reusing old log C:\Users\tanuj.000\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/006990.log 
+2020/09/05-04:56:13.492 3dac Level-0 table #7000: started
+2020/09/05-04:56:13.503 3dac Level-0 table #7000: 38447 bytes OK
+2020/09/05-04:56:13.515 3dac Delete type=0 #6990
+2020/09/05-04:56:13.519 3dac Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00k\x00J\x003\x00_\x00M\x00x\x005\x00t\x00B\x00y\x00I\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 199772 : 1
+2020/09/05-04:56:13.523 3dac Compacting 1@0 + 0@1 files
+2020/09/05-04:56:13.534 3dac Generated table #7001@0: 104 keys, 17814 bytes
+2020/09/05-04:56:13.534 3dac Compacted 1@0 + 0@1 files => 17814 bytes
+2020/09/05-04:56:13.537 3dac compacted to: files[ 0 1 8 0 0 0 0 ]
+2020/09/05-04:56:13.538 3dac Delete type=2 #7000
+2020/09/05-04:56:13.541 3dac Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00k\x00J\x003\x00_\x00M\x00x\x005\x00t\x00B\x00y\x00I\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 199772 : 1 .. (end); will stop at (end)
+2020/09/05-04:56:13.542 3dac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00k\x00J\x003\x00_\x00M\x00x\x005\x00t\x00B\x00y\x00I\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 199772 : 1
+2020/09/05-04:56:13.542 3dac Compacting 1@1 + 5@2 files
+2020/09/05-04:56:13.621 3dac Generated table #7002@1: 132 keys, 3601564 bytes
+2020/09/05-04:56:13.675 3dac Generated table #7003@1: 6 keys, 2500791 bytes
+2020/09/05-04:56:13.733 3dac Generated table #7004@1: 5 keys, 6891584 bytes
+2020/09/05-04:56:13.826 3dac Generated table #7005@1: 1 keys, 6353516 bytes
+2020/09/05-04:56:13.951 3dac Generated table #7006@1: 2213 keys, 2124778 bytes
+2020/09/05-04:56:13.951 3dac Compacted 1@1 + 5@2 files => 21472233 bytes
+2020/09/05-04:56:13.952 3dac compacted to: files[ 0 0 8 0 0 0 0 ]
+2020/09/05-04:56:13.953 3dac Delete type=2 #6993
+2020/09/05-04:56:13.953 3dac Delete type=2 #6994
+2020/09/05-04:56:13.953 3dac Delete type=2 #6995
+2020/09/05-04:56:13.953 3dac Delete type=2 #6996
+2020/09/05-04:56:13.953 3dac Delete type=2 #6997
+2020/09/05-04:56:13.953 3dac Delete type=2 #7001
+2020/09/05-04:56:13.963 3dac Manual compaction at level-1 from '\x00\x05\x01\x02\x01\x1f\x00o\x00g\x00.\x00q\x00t\x00m\x00.\x00e\x00n\x00_\x00U\x00S\x00.\x00k\x00J\x003\x00_\x00M\x00x\x005\x00t\x00B\x00y\x00I\x00.\x00O\x00.\x00n\x00u\x00l\x00l' @ 199772 : 1 .. (end); will stop at (end)
